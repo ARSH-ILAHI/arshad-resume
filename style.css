@@ -54,6 +54,19 @@ a{
     margin-bottom: 10px;
 }
 
+.section-1 h3{
+    color: #fff;
+    font-size: 1.3rem;
+    margin-bottom: 10px;
+}
+
+.section-1 h4{
+    color: #1fdaf7;
+    font-size: 1.1rem;
+    margin-left: 200px;
+    text-align: left;
+}
+
 .section-1 a{
     font-size: 1.5rem;
     padding: 10px;
